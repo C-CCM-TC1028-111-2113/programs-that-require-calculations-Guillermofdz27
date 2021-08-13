@@ -9,7 +9,7 @@ def main():
     multiplicacion= int(entrada1) * int(entrada2)
     print( "Suma:" + str(suma))
     print( "Resta:" + str(resta))
-    print( "Multiplicación:" + str(multiplicacion)
+    print( "Multiplicación:" + str(multiplicacion))
     pass
 
 
